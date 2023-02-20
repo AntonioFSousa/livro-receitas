@@ -2,5 +2,5 @@
 
 ## Repositorio para desafio de projetos
 
-#### Site com Syntaxe MARKDOWN
+#### Syntaxe MARKDOWN
 https://www.markdownguide.org/basic-syntax/
